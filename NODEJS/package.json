@@ -1,0 +1,14 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Practice repo for learning Node.js",
+  "main": "scriptt.js",
+  "type": "module",
+  "scripts": {
+    "start": "node scriptt.js"
+  },
+  "dependencies": {
+    "figlet": "^1.6.0",
+    "random-words": "^2.0.1"
+  }
+}
