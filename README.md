@@ -12,6 +12,7 @@ This repo contains:
 
 - Practice with modules, npm packages, and asynchronous programming
 - Fun experiments with libraries like `figlet` for creative outputs
+
 ---
 Future Plans:
 - Build REST APIs with Express.js
