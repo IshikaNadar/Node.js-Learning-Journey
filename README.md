@@ -7,14 +7,14 @@ I completed my Node.js playlist course today 🎉 and this repository documents 
 It marks the foundation of my backend development journey.
 ---
 
-This repo contains:
+This repo contains :
 - Example scripts demonstrating Node.js fundamentals
 
 - Practice with modules, npm packages, and asynchronous programming
 - Fun experiments with libraries like `figlet` for creative outputs
 
 ---
-Future Plans:
+Future Plans :
 - Build REST APIs with Express.js
 - Integrate MongoDB for database management
 - Experiment with AIML models in backend workflows
